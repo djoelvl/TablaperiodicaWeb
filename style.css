@@ -1,0 +1,44 @@
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+.principal{
+    float: inherit;
+}
+
+.secundaria{
+    float: inherit;
+}
+
+.clase1 {
+    text-align: left;
+width: 60px;
+float: left;
+}
+
+.elem{
+    border-style: groove;
+    width: 60px;
+    height: 60px;
+    
+}
+.blank{
+    visibility: hidden;
+    width: 60px;
+    height: 60px;
+    border-style: hidden;
+}
+
+.clase2{
+    float: left;
+    
+width: 75px;
+    text-align: left;
+
+}
+
+
+
